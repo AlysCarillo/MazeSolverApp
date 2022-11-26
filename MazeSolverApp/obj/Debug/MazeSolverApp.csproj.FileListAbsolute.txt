@@ -1,0 +1,11 @@
+F:\CS CLASS FILES\CS345 INTELLIGENT SYSTEMS\MazeSolver\MazeSolverApp\obj\Debug\MazeSolverApp.csproj.AssemblyReference.cache
+F:\CS CLASS FILES\CS345 INTELLIGENT SYSTEMS\MazeSolver\MazeSolverApp\obj\Debug\MazeSolverApp.csproj.SuggestedBindingRedirects.cache
+F:\CS CLASS FILES\CS345 INTELLIGENT SYSTEMS\MazeSolver\MazeSolverApp\obj\Debug\MazeSolverApp.Properties.Resources.resources
+F:\CS CLASS FILES\CS345 INTELLIGENT SYSTEMS\MazeSolver\MazeSolverApp\obj\Debug\MazeSolverApp.csproj.GenerateResource.cache
+F:\CS CLASS FILES\CS345 INTELLIGENT SYSTEMS\MazeSolver\MazeSolverApp\obj\Debug\MazeSolverApp.csproj.CoreCompileInputs.cache
+F:\CS CLASS FILES\CS345 INTELLIGENT SYSTEMS\MazeSolver\MazeSolverApp\bin\Debug\MazeSolverApp.exe.config
+F:\CS CLASS FILES\CS345 INTELLIGENT SYSTEMS\MazeSolver\MazeSolverApp\bin\Debug\MazeSolverApp.exe
+F:\CS CLASS FILES\CS345 INTELLIGENT SYSTEMS\MazeSolver\MazeSolverApp\bin\Debug\MazeSolverApp.pdb
+F:\CS CLASS FILES\CS345 INTELLIGENT SYSTEMS\MazeSolver\MazeSolverApp\obj\Debug\MazeSolverApp.exe
+F:\CS CLASS FILES\CS345 INTELLIGENT SYSTEMS\MazeSolver\MazeSolverApp\obj\Debug\MazeSolverApp.pdb
+F:\CS CLASS FILES\CS345 INTELLIGENT SYSTEMS\MazeSolver\MazeSolverApp\obj\Debug\MazeSolverApp.Form1.resources
